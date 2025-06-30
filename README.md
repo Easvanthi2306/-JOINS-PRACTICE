@@ -27,7 +27,7 @@ This task serves as a strong foundation for understanding join operations in SQL
 
 In summary, this Task-1 script demonstrates INNER JOIN, LEFT JOIN, RIGHT JOIN, and FULL OUTER JOIN with meaningful examples, and prepares the learner for more complex multi-table queries in real database systems.
 
-OUTPUT:
+#OUTPUT:
 
 ![Image](https://github.com/user-attachments/assets/33f9ea9e-6a10-4330-81a8-b937508c0e36)
 
