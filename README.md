@@ -4,9 +4,13 @@ Practice different types of SQL joins including INNER JOIN, LEFT JOIN, RIGHT JOI
 Deliverable: A set of SQL join queries with their respective outputs demonstrating how data from related tables can be merged and queried.
 
 COMPANY: CODTECH IT SOLUTIONS
+
 NAME: EASVANTHI S
+
 DOMAIN: SQL
+
 DURATION: 4 WEEKS
+
 MENTOR: NEELA SANTHOSH KUMAR
 
 DESCRIPTION:
