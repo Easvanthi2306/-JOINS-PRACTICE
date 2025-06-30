@@ -14,7 +14,8 @@ DURATION: 4 WEEKS
 MENTOR: NEELA SANTHOSH KUMAR
 
 DESCRIPTION:
-Task-1: Joins Practice – SQL Code Description
+
+Task-1: Joins Practice 
 This SQL script demonstrates the practical use of various SQL JOIN operations using two simple and relatable tables: patients and appointments. The purpose of this task is to understand how different types of joins work when retrieving data from multiple related tables. This is a fundamental concept in relational databases and essential for performing accurate data analysis.
 
 The first table created is patients, which contains the basic details of patients. It includes two columns: patient_id (the primary key) and patient_name. The table is populated with sample data for four patients: Arjun, Sneha, Kabir, and Megha.
